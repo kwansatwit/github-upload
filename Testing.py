@@ -12,5 +12,6 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('COMP4960')
+    print_hi('me and you')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
